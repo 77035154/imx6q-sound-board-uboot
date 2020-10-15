@@ -1,0 +1,11 @@
+mxc_spi.c:32:12:board_spi_cs_gpio	0	static
+mxc_spi.c:64:6:spi_cs_activate	0	static
+mxc_spi.c:71:6:spi_cs_deactivate	0	static
+mxc_spi.c:79:5:get_cspi_div	0	static
+mxc_spi.c:217:5:spi_xchg_single	40	static
+mxc_spi.c:333:5:spi_xfer	48	static
+mxc_spi.c:375:6:spi_init	0	static
+mxc_spi.c:405:19:spi_setup_slave	24	static
+mxc_spi.c:447:6:spi_free_slave	0	static
+mxc_spi.c:454:5:spi_claim_bus	32	static
+mxc_spi.c:473:6:spi_release_bus	0	static

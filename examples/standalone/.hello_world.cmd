@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := ./gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /home/fanxiaobo/imx6q-uboot/imx6q-sound-board-uboot/gcc/linux-x86/arm/arm-eabi-4.8/bin/../lib/gcc/arm-eabi/4.8 -lgcc

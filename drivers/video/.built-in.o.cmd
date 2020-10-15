@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.o :=  ./gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-ld.bfd     -r -o drivers/video/built-in.o drivers/video/cfb_console.o drivers/video/mxc_ipuv3_fb.o drivers/video/ipu_common.o drivers/video/ipu_disp.o drivers/video/bridge/built-in.o 
